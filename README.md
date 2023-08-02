@@ -1,4 +1,5 @@
 # Holi mis hermoshuras 💖
+![https://github.com/github/docs/actions/workflows/main.yml/badge.svg](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)
 
 ## Acerca de esta pendeja:
 
