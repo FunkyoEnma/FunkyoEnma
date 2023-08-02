@@ -1,5 +1,9 @@
 ### Holi mis hermoshuras 💖
 
+## Acerca de esta pendeja:
+
+Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muchas cositas y pasandola super bien 💖✨**Tech Lead/Project Lead** en @AurealisStudiosLLC
+
 <!--
 **FunkyoEnma/FunkyoEnma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
