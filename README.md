@@ -59,4 +59,6 @@ Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria
   * Python - *(Inteligencia artificial)*
   * Kotline - *(Desarrollo android)*
 
-
+|Discord|GitHub|
+|-------|------|
+|[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/290581058905309184?theme=dark&bg=5c5c5c&borderRadius=10px&idleMessage=Tocando%20pasto...)](https://discord.com/users/94490510688792576)|[![Github prescence](https://github-readme-stats.vercel.app/api?username=FunkyoEnma&show_icons=true&theme=neon)](https://github.com/FunkyoEnma)
