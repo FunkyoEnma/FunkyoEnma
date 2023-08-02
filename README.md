@@ -5,6 +5,10 @@
 [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-Fabric-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-next.Js-000000?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-nestJs-339933?logo=nestjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
 
 ## Acerca de esta pendeja:
 
