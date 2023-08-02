@@ -12,7 +12,8 @@
 
 ## Acerca de esta pendeja:
 
-Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muchas cositas y pasandola super bien 💖✨**Tech Lead/Project Lead** en [AurealisStudiosLLC](https://github.com/AurealisStudiosLLC), me gusta programar, hacer [directitos](https://www.twitch.tv/funkyoenma), jugar videojuegos y conocer gentecita 💕.
+Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muchas cositas y pasandola super bien 💖✨
+**Tech Lead/Project Lead** en [AurealisStudiosLLC](https://github.com/AurealisStudiosLLC), me gusta programar, hacer [directitos](https://www.twitch.tv/funkyoenma), jugar videojuegos y conocer gentecita 💕.
 
 ### Mis redes sociales:
 * ▶ [Twitcho](https://www.twitch.tv/funkyoenma) - Directos *Casi* diarios jugando jueguitos UwU
