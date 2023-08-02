@@ -1,5 +1,5 @@
 # Holi mis hermoshuras 💖
-[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+<a href="[http://example.com/](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)" target="_blank">![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)</a>
 
 ## Acerca de esta pendeja:
 
