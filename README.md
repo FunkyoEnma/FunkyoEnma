@@ -30,7 +30,7 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 *  **Tech Lead/Project Lead** - [Aurealis Studios](https://github.com/AurealisStudiosLLC) - Hago cositas ✨
 *  **Owner** - [Okaerinasai](https://github.com/OkaerinasaiCol) - Donde hago mis eventitos propios con mis compas 💖
 
-## Lenguajes y plataformas que eh usado
+## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
 
 * **Python:**
