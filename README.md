@@ -3,7 +3,8 @@
 [![](https://img.shields.io/badge/-qt-41CD52?logo=qt&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
-[![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-Fabric-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
 
 ## Acerca de esta pendeja:
 
