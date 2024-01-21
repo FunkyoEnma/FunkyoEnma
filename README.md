@@ -16,19 +16,11 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 
 **Tech Lead/Project Lead** en [AurealisStudiosLLC](https://github.com/AurealisStudiosLLC), me gusta programar, hacer [directitos](https://www.twitch.tv/funkyoenma), jugar videojuegos y conocer gentecita 💕.
 
-### Mis redes sociales:
-* ▶ [Twitcho](https://www.twitch.tv/funkyoenma) - Directos *Casi* diarios jugando jueguitos UwU
-* ❄ [Twitter](https://twitter.com/FunkyoEnma) - Donde mantengo mucho tiempo compartiendo mis pendejadas
-* 📸 [Instagram](https://www.instagram.com/enmafunkyo/) - Fotitos cada 5 AÑOS
-* 🌍 [Facebook](https://www.facebook.com/FunkyoUwU/) - Página abandonada donde de ve en cuando subo algo
-* 🔴 [Youtube](https://www.youtube.com/channel/UCiMP1z0LtT95bNW-qpP35OA) - Videitos cada vez que estoy animada jugando o hablando de mi vida
-* 🎶 [TikTok](https://www.tiktok.com/@funkyoenma) - Subo cositas y se vienen cositas 💗
-
-### Contacto:
+## Contacto:
 * ❄ [Twitter](https://twitter.com/FunkyoEnma) - Contesto rapido si twitter no te manda a spam
 * 💖 [Discord](https://discord.gg/APYemsXMCV) - Aqui siempre leo lo que me dicen, en especial por el general :3
 
-### Trabajos y proyectos actuales:
+## Trabajos y proyectos actuales:
 *  **Tech Lead/Project Lead** - [Aurealis Studios](https://github.com/AurealisStudiosLLC) - Hago cositas ✨
 *  **Owner** - [V-Magic](https://twitter.com/_VMagic) - Grupo vtuber 💖
 *  **Programación** - Programación de bots de discord y plugins de minecraft
@@ -71,6 +63,13 @@ Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria
   * Python - *(Inteligencia artificial)*
   * Kotline - *(Desarrollo android)*
 
+### Mis redes sociales:
+* ▶ [Twitcho](https://www.twitch.tv/funkyoenma) - Directos *Casi* diarios jugando jueguitos UwU
+* ❄ [Twitter](https://twitter.com/FunkyoEnma) - Donde mantengo mucho tiempo compartiendo mis pendejadas
+* 📸 [Instagram](https://www.instagram.com/enmafunkyo/) - Fotitos cada 5 AÑOS
+* 🔴 [Youtube](https://www.youtube.com/channel/UCiMP1z0LtT95bNW-qpP35OA) - Videitos cada vez que estoy animada jugando o hablando de mi vida
+* 🎶 [TikTok](https://www.tiktok.com/@funkyoenma) - Subo cositas y se vienen cositas 💗
+  
 |Discord|GitHub|
 |-------|------|
 |[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/290581058905309184?theme=dark&bg=5c5c5c&borderRadius=10px&idleMessage=Tocando%20pasto...)](https://discord.com/users/94490510688792576)|[![Github prescence](https://github-readme-stats.vercel.app/api?username=FunkyoEnma&show_icons=true&theme=neon)](https://github.com/FunkyoEnma)
