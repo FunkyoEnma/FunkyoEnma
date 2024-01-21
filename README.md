@@ -28,9 +28,10 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 * ❄ [Twitter](https://twitter.com/FunkyoEnma) - Contesto rapido si twitter no te manda a spam
 * 💖 [Discord](https://discord.gg/APYemsXMCV) - Aqui siempre leo lo que me dicen, en especial por el general :3
 
-### Trabajos actuales:
+### Trabajos y proyectos actuales:
 *  **Tech Lead/Project Lead** - [Aurealis Studios](https://github.com/AurealisStudiosLLC) - Hago cositas ✨
-*  **Owner** - [Okaerinasai](https://github.com/OkaerinasaiCol) - Donde hago mis eventitos propios con mis compas 💖
+*  **Owner** - [V-Magic](https://twitter.com/_VMagic) - Grupo vtuber 💖
+*  **Programación** - Programación de bots de discord y plugins de minecraft
 
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
