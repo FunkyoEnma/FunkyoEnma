@@ -32,7 +32,8 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [x] **Dududuelooo** - Plugin de minecraft realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC) - [More info...](proyects/Dududuelooo.md)
  - [ ] **BoatPVP** - Plugin de minecraft desarrollado en un inicio para [Aurealis Studios](https://github.com/AurealisStudiosLLC) pero liberado paraa usos personales - [More info...](proyects/BoatPvp.md)
  - [ ] **Miranda**<sup>*(Nombre clave)*</sup> - Api de plugin de minecraft en desarrollo
- - [ ] **Abigail**<sup>*(Nombre en clave)*</sup> Plugin de minecraft en desarrollo basado en la api **Miranda**
+ - [ ] **Abigail**<sup>*(Nombre en clave)*</sup> - Plugin de minecraft en desarrollo basado en la api **Miranda**
+ - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft realizado para [VMagic](https://twitter.com/_VMagic_)
 
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
