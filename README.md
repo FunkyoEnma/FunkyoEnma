@@ -35,6 +35,11 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [ ] **Abigail**<sup>*(Nombre en clave)*</sup> - Plugin de minecraft en desarrollo basado en la api **Miranda**
  - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft realizado para [VMagic](https://twitter.com/_VMagic_)
 
+[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-qt-41CD52?logo=qt&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+ - [x] **Aurealis Launcher** - Launcher de minecraft desarrollado un 90% de la version beta, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
+ - [x] **BackupIR** -  - [More info...](proyects/BackupIr.md)
+
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
 
