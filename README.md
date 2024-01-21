@@ -48,6 +48,9 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [x] **Aurealis Launcher Server** - Api desarrollada para el **Aurealis Launcher**, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
  - [ ] **V-Magic WebPage** - Pagina web de vmagic por iniciar desarrollo en los próximos meses, realizado para [VMagic](https://twitter.com/_VMagic_)
 
+[![](https://img.shields.io/badge/-godot-478CBF?logo=godotengine&logoColor=white&style=flat)](https://github.com/search?q=repo%3AFunkyoEnma%2FVtuber++language%3AGDScript&type=code)
+ - [ ] **Tracking app** - Aplicación de trackeo facial / corporal con avatar, programada para desarrollo a mediados - finales de 2024 - [More info...](proyects/trackingApp.md)
+
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
 
