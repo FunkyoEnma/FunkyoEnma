@@ -41,6 +41,9 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [x] **Aurealis Launcher** - Launcher de minecraft desarrollado un 90% de la version beta, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
  - [x] **BackupIR** - Aplicación de backups cifrados realizado paraa una empresa privada - [More info...](proyects/BackupIr.md)
 
+[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+ - [x] **StreamChecker** - Bot de discord para verificar canales en stream y publicar las alertas etiquetando a la comunidad de dicho streamer, realizado para [VMagic](https://twitter.com/_VMagic_)
+
 
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
