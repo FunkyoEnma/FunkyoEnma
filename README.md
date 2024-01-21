@@ -33,12 +33,19 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [ ] **BoatPVP** - Plugin de minecraft desarrollado en un inicio para [Aurealis Studios](https://github.com/AurealisStudiosLLC) pero liberado para usos personales - [More info...](proyects/BoatPvp.md)
  - [ ] **Miranda**<sup>*(Nombre clave)*</sup> - Api de plugin de minecraft en desarrollo
  - [ ] **Abigail**<sup>*(Nombre en clave)*</sup> - Plugin de minecraft en desarrollo basado en la api **Miranda**
- - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft realizado para [VMagic](https://twitter.com/_VMagic_)
+ - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft, realizado para [VMagic](https://twitter.com/_VMagic_)
 
 [![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-qt-41CD52?logo=qt&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
  - [x] **Aurealis Launcher** - Launcher de minecraft desarrollado un 90% de la version beta, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
- - [x] **BackupIR** -  - [More info...](proyects/BackupIr.md)
+ - [x] **BackupIR** - Aplicación de backups cifrados realizado paraa una empresa privada - [More info...](proyects/BackupIr.md)
+
+
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-next.Js-000000?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+ - [x] **Aurealis Launcher Server** - Api desarrollada para el **Aurealis Launcher**, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
+ - [ ] **V-Magic WebPage** - Pagina web de vmagic por iniciar desarrollo en los próximos meses, realizado para [VMagic](https://twitter.com/_VMagic_)
 
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
