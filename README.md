@@ -33,6 +33,10 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 *  **Owner** - [V-Magic](https://twitter.com/_VMagic) - Grupo vtuber 💖
 *  **Programación** - Programación de bots de discord y plugins de minecraft
 
+## Proyectos realizados y en proceso
+
+* **Blind manager** -  - Plugin de minecraft realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC) - [![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
+
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
 
