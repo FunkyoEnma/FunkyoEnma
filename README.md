@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
 [![](https://img.shields.io/badge/-nestJs-339933?logo=nestjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-godot-478CBF?logo=godotengine&logoColor=white&style=flat)](https://github.com/search?q=repo%3AFunkyoEnma%2FVtuber++language%3AGDScript&type=code)
 
 ## Acerca de esta pendeja:
 
