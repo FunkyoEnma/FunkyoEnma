@@ -33,7 +33,7 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [x] **Dududuelooo** - Plugin de minecraft realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC) - [More info...](proyects/Dududuelooo.md)
  - [ ] **BoatPVP** - Plugin de minecraft desarrollado en un inicio para [Aurealis Studios](https://github.com/AurealisStudiosLLC) pero liberado para usos personales - [More info...](proyects/BoatPvp.md)
  - [ ] **ToggleControl** - Api para deshabilitar y habilitar funciones de los plugins creados con la misma como dependencia
- - [ ] **Live Steel** - Plugin de minecraft hecho para robar corazones de otros jugadores [Ver más...](https://www.youtube.com/watch?v=jdZBF_T2J_E) <sub>(creado con ToggleControl como libreria base)</sub>
+ - [ ] **Live Steel** - Plugin de minecraft hecho para robar corazones de otros jugadores [More info...](https://www.youtube.com/watch?v=jdZBF_T2J_E) <sub>(creado con ToggleControl como libreria base)</sub>
  - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft, realizado para [VMagic](https://twitter.com/_VMagic_)
 
 [![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
