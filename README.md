@@ -24,11 +24,13 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 ## Trabajos y proyectos actuales:
 *  **Tech Lead/Project Lead** - [Aurealis Studios](https://github.com/AurealisStudiosLLC) - Hago cositas ✨
 *  **Owner** - [V-Magic](https://twitter.com/_VMagic) - Grupo vtuber 💖
+* **C.E.O.** - [VMagicStudio](https://x.com/VmagicStudio) - Rama de [V-Magic](https://twitter.com/_VMagic) dedicada al desarrollo
 *  **Programación** - Programación de bots de discord y plugins de minecraft
 
 ## Proyectos realizados y en proceso
 
 [![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
+
  - [x] **BountyHunter** - Plugin de cazarecompenzas realizado para [Wolf Studio](https://x.com/wolfStudioof) - [More info...](https://github.com/SunnooDev/.github/tree/main/Trabajos/WolfStudios/BountyHunter)
  - [x] **JobsInmortals** - plugin básico de trabajos en placeholders realizado para [Wolf Studio](https://x.com/wolfStudioof) - [More info...](https://github.com/SunnooDev/.github/tree/main/Trabajos/WolfStudios/JobInmortals)
  - [x] **Pelea de elementos** - Plugin de minecraft para  un evento de pelea de elementos estilo avatar [More info...](https://www.youtube.com/watch?v=FLTOChr7fZI)
@@ -39,23 +41,22 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [ ] **BoatPVP** - Plugin de minecraft desarrollado en un inicio para [Aurealis Studios](https://github.com/AurealisStudiosLLC) pero liberado para usos personales - [More info...](proyects/BoatPvp.md)
  - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft, realizado para [VMagic](https://twitter.com/_VMagic_)
 
-[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
-[![](https://img.shields.io/badge/-qt-41CD52?logo=qt&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-qt-41CD52?logo=qt&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+
+ - [x] ❗Nuevo❗ - **PasaPalabra** - Aplicación para concurso de pasapalabra con fuentes de navegador de obs, realizada para [????- client](proyects/Client-NotPublic/) - [More info...](proyects/Client-NotPublic/Pasapalabra.md)
  - [x] **Aurealis Launcher** - Launcher de minecraft desarrollado un 90% de la version beta, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
- - [x] **BackupIR** - Aplicación de backups cifrados realizado paraa una empresa privada - [More info...](proyects/BackupIr.md)
+ - [x] **BackupIR** - Aplicación de backups cifrados realizado para una empresa privada - [More info...](proyects/BackupIr.md)
 
 [![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+
  - [x] **StreamChecker** - Bot de discord para verificar canales en stream y publicar las alertas etiquetando a la comunidad de dicho streamer, realizado para [VMagic](https://twitter.com/_VMagic_)
 
 
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
-[![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
-[![](https://img.shields.io/badge/-next.Js-000000?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-next.Js-000000?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+
  - [x] **Aurealis Launcher Server** - Api desarrollada para el **Aurealis Launcher**, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
  - [ ] **V-Magic WebPage** - Pagina web de vmagic por iniciar desarrollo en los próximos meses, realizado para [VMagic](https://twitter.com/_VMagic_)
 
-[![](https://img.shields.io/badge/-godot-478CBF?logo=godotengine&logoColor=white&style=flat)](https://github.com/search?q=repo%3AFunkyoEnma%2FVtuber++language%3AGDScript&type=code)
- - [ ] **Tracking app** - Aplicación de trackeo facial / corporal con avatar, programada para desarrollo a mediados - finales de 2024 - [More info...](proyects/trackingApp.md)
 
 ## Lenguajes y plataformas que he usado
 Estos son todos los lenguajes y/o plataformas que eh usado y los que me gustaria aprender o ya estoy aprendiendo a usar:
