@@ -12,14 +12,21 @@ Programa para eventos de pasapalabra desarrollado con python, consta de dos part
 # Fuentes de navegador
 
 - **Ruleta de letras:** Muestra las letras en forma de ruleta, se selecciona la letra actual, se puede mover hacia adelante y hacia atrás y se puede marcar como correcta o incorrecta
-\* imagen 1
+  ![image](https://github.com/user-attachments/assets/ef6b1901-d525-4496-92b6-97f79cfc2a17)
 
 - **Ahorcado:** Muestra un "ahorcado" con base en los errores cometidos hasta un máximo de 7
-\* imagen 2
+  
+  | 5 Errores | 7 Errores |
+  |----|-----|
+  | ![image](https://github.com/user-attachments/assets/d91a6a70-a7c6-4ea9-959b-5fb07515409c) | ![image](https://github.com/user-attachments/assets/0073b875-56b1-4c61-903e-abe52c40c826) |
+
+
+
 
 # Configuración
 
 Ventana de configuración, aqui se puede modificar la tecla para reiniciar y la tecla para cada opción (Anterior, Siguiente, Ok, Error) y los colores de OK y de ERROR
-\* imagen 3
+![image](https://github.com/user-attachments/assets/d904ded3-2656-465a-824b-a818dce3d206)
+
 
 La configuración se guarda en '~\\.FunkyoEnmaDev\pasaPalabra', sin envargo se recomienda no cambiarla directamente dentro de está ya que las teclas se guardan en su valor númerico para pyqt
