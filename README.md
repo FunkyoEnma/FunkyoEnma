@@ -29,7 +29,7 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 
 ## Proyectos realizados y en proceso
 
-[![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJava+++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_lenguaje/Java.md) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_lenguaje/Spigot-paper.md)
 
  - [x] **BountyHunter** - Plugin de cazarecompenzas realizado para [Wolf Studio](https://x.com/wolfStudioof) - [More info...](https://github.com/SunnooDev/.github/tree/main/Trabajos/WolfStudios/BountyHunter)
  - [x] **JobsInmortals** - plugin básico de trabajos en placeholders realizado para [Wolf Studio](https://x.com/wolfStudioof) - [More info...](https://github.com/SunnooDev/.github/tree/main/Trabajos/WolfStudios/JobInmortals)
@@ -52,7 +52,7 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [x] **StreamChecker** - Bot de discord para verificar canales en stream y publicar las alertas etiquetando a la comunidad de dicho streamer, realizado para [VMagic](https://twitter.com/_VMagic_)
 
 
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-nodeJs-339933?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-next.Js-000000?logo=javascript&logoColor=white&style=flat)](https://github.com/search?q=+language%3AJavaScript++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](Filter_Lenguaje/Javascript.md) [![](https://img.shields.io/badge/-next.Js-000000?logo=javascript&logoColor=white&style=flat)](Filter_Lenguaje/Next-js.md)
 
  - [x] **Aurealis Launcher Server** - Api desarrollada para el **Aurealis Launcher**, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
  - [ ] **V-Magic WebPage** - Pagina web de vmagic por iniciar desarrollo en los próximos meses, realizado para [VMagic](https://twitter.com/_VMagic_)
