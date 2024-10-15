@@ -26,6 +26,7 @@ Programa para eventos de pasapalabra desarrollado con python, consta de dos part
 # Configuración
 
 Ventana de configuración, aqui se puede modificar la tecla para reiniciar y la tecla para cada opción (Anterior, Siguiente, Ok, Error) y los colores de OK y de ERROR
+
 ![image](https://github.com/user-attachments/assets/d904ded3-2656-465a-824b-a818dce3d206)
 
 
