@@ -8,8 +8,11 @@ Programa para eventos de pasapalabra desarrollado con python, consta de dos part
 - Dos paginas para usar como fuente de navegador en el O.B.S.
 
 **Version:** 1.1.0
+
 **Binario del programa:** Este no será liberado hasta que el cliente lo autorice
+
 **Codigo fuente:** Este no será liberado hasta que el cliente lo autorice
+
 **Cliente:** Anonimo por el momento
 
 # Fuentes de navegador
