@@ -29,7 +29,7 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 
 ## Proyectos realizados y en proceso
 
-[![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_lenguaje/Java.md) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_lenguaje/Spigot-paper.md)
+[![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_Lenguaje/Java.md) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_Lenguaje/Spigot-paper.md)
 
  - [x] **BountyHunter** - Plugin de cazarecompenzas realizado para [Wolf Studio](https://x.com/wolfStudioof) - [More info...](https://github.com/SunnooDev/.github/tree/main/Trabajos/WolfStudios/BountyHunter)
  - [x] **JobsInmortals** - plugin básico de trabajos en placeholders realizado para [Wolf Studio](https://x.com/wolfStudioof) - [More info...](https://github.com/SunnooDev/.github/tree/main/Trabajos/WolfStudios/JobInmortals)
