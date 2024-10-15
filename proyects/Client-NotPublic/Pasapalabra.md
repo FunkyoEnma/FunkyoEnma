@@ -15,9 +15,14 @@ Programa para eventos de pasapalabra desarrollado con python, consta de dos part
 # Fuentes de navegador
 
 - **Ruleta de letras:** Muestra las letras en forma de ruleta, se selecciona la letra actual, se puede mover hacia adelante y hacia atrás y se puede marcar como correcta o incorrecta
+ 
+  A este se accede con el enlace http://127.0.0.1:8000/
+  
   ![image](https://github.com/user-attachments/assets/ef6b1901-d525-4496-92b6-97f79cfc2a17)
 
 - **Ahorcado:** Muestra un "ahorcado" con base en los errores cometidos hasta un máximo de 7
+  
+  A este se accede con el enlace http://127.0.0.1:8080/
   
   | 5 Errores | 7 Errores |
   |----|-----|
