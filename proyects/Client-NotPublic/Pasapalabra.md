@@ -8,6 +8,9 @@ Programa para eventos de pasapalabra desarrollado con python, consta de dos part
 - Dos paginas para usar como fuente de navegador en el O.B.S.
 
 **Version:** 1.1.0
+**Binario del programa:** Este no será liberado hasta que el cliente lo autorice
+**Codigo fuente:** Este no será liberado hasta que el cliente lo autorice
+**Cliente:** Anonimo por el momento
 
 # Fuentes de navegador
 
@@ -20,14 +23,17 @@ Programa para eventos de pasapalabra desarrollado con python, consta de dos part
   |----|-----|
   | ![image](https://github.com/user-attachments/assets/d91a6a70-a7c6-4ea9-959b-5fb07515409c) | ![image](https://github.com/user-attachments/assets/0073b875-56b1-4c61-903e-abe52c40c826) |
 
-
-
-
 # Configuración
 
 Ventana de configuración, aqui se puede modificar la tecla para reiniciar y la tecla para cada opción (Anterior, Siguiente, Ok, Error) y los colores de OK y de ERROR
 
 ![image](https://github.com/user-attachments/assets/d904ded3-2656-465a-824b-a818dce3d206)
 
-
 La configuración se guarda en '~\\.FunkyoEnmaDev\pasaPalabra', sin envargo se recomienda no cambiarla directamente dentro de está ya que las teclas se guardan en su valor númerico para pyqt
+
+# Errores conocidos
+Estos errores etán programados para corrección en las siguientes versiones de arreglos de erores
+
+- ⭐ Si se cambia la configuración y se intenta reiniciar se estanca en reload...
+- En caso de no tener una tecla seleccionada en la configuración en vez de none aparece color0
+- La applicación no viene con configuraciónes default para las teclas
