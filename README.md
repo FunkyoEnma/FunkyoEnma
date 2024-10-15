@@ -41,13 +41,13 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
  - [ ] **BoatPVP** - Plugin de minecraft desarrollado en un inicio para [Aurealis Studios](https://github.com/AurealisStudiosLLC) pero liberado para usos personales - [More info...](proyects/BoatPvp.md)
  - [ ] **Painball V-Magic** - Plugin de minecraft en desarrollo, enfocado en el painball/airsoft, realizado para [VMagic](https://twitter.com/_VMagic_)
 
-[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories) [![](https://img.shields.io/badge/-qt-41CD52?logo=qt&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](Filter_Lenguaje/Python.md) [![](https://img.shields.io/badge/PyQt-2CDE85?style=flat&logo=qt&logoColor=white)](Filter_Lenguaje/Pyqt.md)
 
  - [x] ❗Nuevo❗ - **PasaPalabra** - Aplicación para concurso de pasapalabra con fuentes de navegador de obs, realizada para [????- client](proyects/Client-NotPublic/) - [More info...](proyects/Client-NotPublic/Pasapalabra.md)
  - [x] **Aurealis Launcher** - Launcher de minecraft desarrollado un 90% de la version beta, cancelado por fuerza mayor, realizado para [Aurealis Studios](https://github.com/AurealisStudiosLLC)
  - [x] **BackupIR** - Aplicación de backups cifrados realizado para una empresa privada - [More info...](proyects/BackupIr.md)
 
-[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/search?q=+language%3APython++org%3AFunkyoEnma+&type=repositories)
+[![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=flat)](Filter_Lenguaje/Python.md)
 
  - [x] **StreamChecker** - Bot de discord para verificar canales en stream y publicar las alertas etiquetando a la comunidad de dicho streamer, realizado para [VMagic](https://twitter.com/_VMagic_)
 
