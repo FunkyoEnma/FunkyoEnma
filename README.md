@@ -28,6 +28,9 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 *  **Programación** - Programación de bots de discord y plugins de minecraft
 
 ## Proyectos realizados y en proceso
+[![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_Lenguaje/Java.md) [![](https://img.shields.io/badge/-Fabric-ED8B00?style=flat&logo=openjdk&logoColor=white)](Filter_Lenguaje/Fabric.md)
+ - [x] **Wordle** - Mod que agrega 26 letras del ingles, 10 numeros, ñ y el simbolo -, en 4 colores (Gris, Amarillo, Rojo y Verde) y sus respectivas brochas - [More info...](https://github.com/FunkyoEnma/Wordle-Minecraft)
+
 
 [![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_Lenguaje/Java.md) [![](https://img.shields.io/badge/-Spigot%2FPaper-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_Lenguaje/Spigot-paper.md)
 
