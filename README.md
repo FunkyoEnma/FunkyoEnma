@@ -15,7 +15,7 @@
 
 Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muchas cositas y pasandola super bien 💖✨
 
-**Tech Lead/Project Lead** en [AurealisStudiosLLC](https://github.com/AurealisStudiosLLC), me gusta programar, hacer [directitos](https://www.twitch.tv/funkyoenma), jugar videojuegos y conocer gentecita 💕.
+**Tech Lead/Project Lead** en [PloxHost](https://plox.host/es/about), me gusta programar, hacer [directitos](https://www.twitch.tv/funkyoenma), jugar videojuegos y conocer gentecita 💕.
 
 ## Contacto:
 * ❄ [Twitter](https://twitter.com/FunkyoEnma) - Contesto rapido si twitter no te manda a spam
