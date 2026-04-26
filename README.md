@@ -22,10 +22,13 @@ Chica trans 🏳️‍⚧️, desarrolladora en proceso, aprendiendo a hacer muc
 * 💖 [Discord](https://discord.gg/APYemsXMCV) - Aqui siempre leo lo que me dicen, en especial por el general :3
 
 ## Trabajos y proyectos actuales:
-*  **Tech Lead/Project Lead** - [Aurealis Studios](https://github.com/AurealisStudiosLLC) - Hago cositas ✨
+*  **Tech Lead/Project Lead** - [PloxHost](https://plox.host/es/about) -> [Gitgub](https://github.com/ploxhosts)
 *  **Owner** - [V-Magic](https://twitter.com/_VMagic) - Grupo vtuber 💖
-* **C.E.O.** - [VMagicStudio](https://x.com/VmagicStudio) - Rama de [V-Magic](https://twitter.com/_VMagic) dedicada al desarrollo
-*  **Programación** - Programación de bots de discord y plugins de minecraft
+* **C.E.O.** - [FunkyRS](https://x.com/RinariStudio) - Rama de [RinariStudio](https://x.com/RinariStudio) dedicada a eventos de minecraft y otros juegos
+*  **Programación** - Programación de bots de discord, plugins y mods de minecraft, y muchas otras cosas.
+
+## Trabajos anteriores:
+*  **Tech Lead/Project Lead** - [Aurealis Studios](https://github.com/AurealisStudiosLLC)
 
 ## Proyectos realizados y en proceso
 [![](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)](Filter_Lenguaje/Java.md) [![](https://img.shields.io/badge/-Fabric-ED8B00?style=flat&logo=openjdk&logoColor=white)](Filter_Lenguaje/Fabric.md)
